@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1778147440 source:z:\c-c++\2a5-2025-26\2a5-20260505-biblioteca-menu-file\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+
